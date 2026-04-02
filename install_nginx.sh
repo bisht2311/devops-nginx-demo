@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This is a script to install and run NGINX
 
 sudo apt-get update -y
 
