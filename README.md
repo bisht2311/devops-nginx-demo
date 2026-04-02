@@ -1,14 +1,13 @@
-DevOps Nginx Demo
+#DevOps Nginx Demo
 
-Intro
+#Intro
 
-This repo is for hoe to install and run the NGINX
+#This repo is for hoe to install and run the NGINX
 
-STEPS:
+#STEPS:
 
-sudo apt-get update
-sudo apt install nginx
-
-sudo systemctl start nginx
-sudo systemctl enable nginx
-sudo systemctl status nginx
+#1. sudo apt-get update
+#2. sudo apt install nginx
+#3. sudo systemctl start nginx
+#4. sudo systemctl enable nginx
+#5. sudo systemctl status nginx
